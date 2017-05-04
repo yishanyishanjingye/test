@@ -1,0 +1,77 @@
+.list {
+  height: 0.7rem;
+  width: 100%;
+  margin-top: 0.88rem;
+  border-bottom: 0.01rem solid #cccccc;
+}
+.list ul {
+  float: left;
+  font-size: 0.28rem;
+  text-align: center;
+  line-height: 0.7rem;
+  width: calc(33.33333333%);
+  height: 100%;
+}
+.list .active4 {
+  border-bottom: 0.02rem solid #df007f;
+}
+.gonggao {
+  width: 100%;
+}
+.gonggao .gonggao-con {
+  height: 1.9rem;
+  width: 100%;
+  border-bottom: 0.01rem solid #cccccc;
+}
+.gonggao .gonggao-con .gonggao-con2 {
+  margin: 0.2rem 0 0 0.2rem;
+  float: left;
+}
+.gonggao .gonggao-con .gonggao-con2 .p1 {
+  font-size: 0.26rem;
+  color: #333333;
+}
+.gonggao .gonggao-con .gonggao-con2 .p2 {
+  color: #999999;
+  font-size: 0.24rem;
+  margin-top: 0.3rem;
+}
+.gonggao .gonggao-con .gonggao-con2 .p3 {
+  color: #999999;
+  font-size: 0.24rem;
+  margin-top: 0.1rem;
+}
+.gonggao .gonggao-con .gonggao-con1 {
+  height: 1.51rem;
+  width: 1.51rem;
+  background: url("../images/forum-list/kafei.png") no-repeat -0.25rem 0;
+  background-size: 2rem 1.51rem;
+  float: left;
+  margin: 0.2rem 0 0 0.2rem;
+}
+.gonggao .gonggao-title {
+  width: 100%;
+  background: #f2f2f2;
+  border-bottom: 0.01rem solid #cccccc;
+  position: relative;
+}
+.gonggao .gonggao-title li {
+  font-size: 0.26rem;
+  color: #333333;
+  width: 1.4rem;
+  height: 0.7rem;
+  text-align: center;
+  line-height: 0.7rem;
+  border-bottom: 0.02rem solid #df007f;
+}
+.gonggao .gonggao-title p {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 1rem;
+  height: 0.7rem;
+  line-height: 0.7rem;
+  text-align: center;
+  font-size: 0.24rem;
+  color: #333333;
+}

@@ -1,0 +1,32 @@
+.kafei01 {
+  height: 4rem;
+  width: 100%;
+  background: url("../images/student/cafeidou.png") no-repeat 0 0;
+  background-size: 100% 100%;
+  margin-top: 0.88rem;
+}
+.neirong {
+  width: 100%;
+  margin-top: 0.2rem;
+}
+.neirong p {
+  text-indent: 0.48rem;
+  font-size: 0.24rem;
+  color: #999999;
+  line-height: 0.45rem;
+  margin: 0.2rem;
+}
+.neirong li {
+  text-align: center;
+  font-size: 0.26rem;
+  color: #000;
+  font-weight: 800;
+}
+.zhengshu {
+  height: 4.3rem;
+  width: 6.1rem;
+  background: url("../images/zhengshu/zhengshu1.png") no-repeat 0 0;
+  background-size: 100% 100%;
+  margin: 0 auto;
+  margin-bottom: 1.2rem;
+}

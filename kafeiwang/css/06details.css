@@ -1,0 +1,125 @@
+.user {
+  width: 100%;
+  height: 2.4rem;
+  float: left;
+  background: #f2f2f2;
+  border-bottom: 1px solid #ccc;
+}
+.user div {
+  margin-top: 0.3rem;
+  float: left;
+  text-align: center;
+  width: 50%;
+  font-size: 0.3rem;
+  color: #a4a4a4;
+}
+.user div ul:nth-child(1) {
+  border: 5px solid #f9f9f9;
+  width: 1.2rem;
+  height: 1.2rem;
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+  background: #fff;
+}
+.user div ul:nth-child(1) img {
+  width: 0.6rem;
+  height: 0.63rem;
+  float: left;
+  margin-top: 0.3rem;
+  margin-left: 0.3rem;
+}
+.message {
+  width: 100%;
+  float: left;
+  box-sizing: border-box;
+  padding: 0.2rem;
+}
+.message .input {
+  width: 6rem;
+  height: 0.8rem;
+  float: left;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  color: #000;
+  font-size: 0.3rem;
+  padding-left: 0.2rem;
+}
+.message .choose {
+  float: left;
+  font-size: 0.3rem;
+  color: #000;
+  line-height: 1.2rem;
+}
+.message .choose ul:nth-child(1) {
+  float: left;
+  margin-left: 0.2rem;
+}
+.message .choose ul:nth-child(2) {
+  float: left;
+}
+.message .choose ul:nth-child(2) li {
+  float: left;
+  margin-left: 0.7rem;
+}
+.message .choose ul:nth-child(2) li p {
+  float: left;
+  width: 0.28rem;
+  height: 0.28rem;
+  border-radius: 50%;
+  border: 0.02rem solid #666666;
+  margin-top: 0.45rem;
+  margin-right: 0.1rem;
+}
+.message .choose ul:nth-child(2) .active {
+  color: #e00d85 ;
+}
+.message .choose ul:nth-child(2) .active p {
+  background: url(../images/06details/02.png) no-repeat !important;
+  background-size: 0.3rem 0.3rem;
+  border-color: #e00d85;
+}
+.message .choose02 {
+  float: left;
+  font-size: 0.3rem;
+  color: #000;
+  line-height: 0.3rem;
+  margin-top: 0.4rem;
+}
+.message .choose02 div:nth-child(1) {
+  width: 100%;
+  box-sizing: border-box;
+  padding-left: 0.2rem;
+}
+.message .choose02 div:nth-child(2) {
+  line-height: 0.8rem;
+  float: left;
+  width: 100%;
+  box-sizing: border-box;
+  padding-left: 0.2rem;
+}
+.message .choose02 div:nth-child(2) li {
+  float: left;
+  width: 0.28rem;
+  height: 0.28rem;
+  border-radius: 0.08rem;
+  border: 0.02rem solid #666666;
+  margin-top: 0.26rem;
+  margin-right: 0.1rem;
+}
+.message .choose02 div:nth-child(2) .active li {
+  text-align: center;
+  background: #e00d85 url(../images/06details/03.png) no-repeat 0.05rem 0.05rem;
+  border-color: #e00d85;
+  background-size: 0.19rem 0.19rem;
+}
+.message .input02 {
+  width: 6rem;
+  height: 0.8rem;
+  float: left;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  color: #a8a8a8;
+  font-size: 0.3rem;
+  padding-left: 0.2rem;
+}

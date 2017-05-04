@@ -1,0 +1,148 @@
+.search {
+  width: 100%;
+  float: left;
+  height: 0.82rem;
+  background: #f2f2f2;
+}
+.search .border {
+  width: 5.98rem;
+  height: 0.58rem;
+  float: left;
+  margin-left: 0.2rem;
+  margin-top: 0.1rem;
+  border: 1px solid #cdcccc;
+  border-radius: 0.35rem;
+  background: #fff;
+  line-height: 0.58rem;
+  overflow: hidden;
+}
+.search .border .input {
+  float: left;
+  width: 5.9rem;
+  position: relative;
+}
+.search .border .input input {
+  width: 5.9rem;
+  float: left;
+  height: 0.58rem ;
+  font-size: 0.24rem;
+  margin-left: 0.05rem;
+  box-sizing: border-box;
+  padding-left: 0.2rem;
+}
+.search .border .input img {
+  width: 0.4rem;
+  height: 0.32rem;
+  position: absolute;
+  right: 0.15rem;
+  top: 0.12rem;
+}
+.choose {
+  width: 100%;
+  float: left;
+  height: 0.7rem;
+  border-bottom: 1px solid #ccc;
+  color: #848484;
+  font-size: 0.28rem;
+  line-height: 0.7rem;
+}
+.choose .active {
+  color: #df007f;
+}
+.choose span {
+  display: inline-block;
+  margin-left: 0.1rem;
+  position: relative;
+}
+.choose span img {
+  position: absolute;
+  top: -0.1rem;
+  left: 0;
+  display: inline-block;
+  width: 0.16rem;
+  height: 0.06rem;
+}
+.mr_40 {
+  margin-right: 0.4rem;
+  _display: inline;
+}
+.content-home {
+  width: 100%;
+  float: left;
+}
+.content-home .bgk {
+  background: #f5f5f5;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+.content-home .study {
+  width: 100%;
+  float: left;
+  position: relative;
+}
+.content-home .study ul {
+  float: left;
+}
+.content-home .study ul .img {
+  width: 1.5rem;
+  height: 1.5rem;
+  float: left;
+  padding: 0.2rem;
+}
+.content-home .study ul .tit {
+  color: #000;
+  font-size: 0.26rem;
+  line-height: 0.4rem;
+  margin-top: 0.15rem;
+}
+.content-home .study ul .people {
+  font-size: 0.24rem;
+  color: #b6b6b6;
+  line-height: 0.3rem;
+  margin-top: 0.05rem;
+}
+.content-home .study ul .dolor {
+  font-size: 0.3rem;
+  color: #df007f;
+  margin-top: 0.05rem;
+}
+.content-home .study ul .dolor span {
+  font-size: 0.22rem;
+}
+.content-home .study ul .position01 {
+  position: absolute;
+  top: 0.2rem;
+  right: 0.3rem;
+}
+.content-home .study ul .position01 img {
+  width: 0.3rem;
+  height: 0.3rem;
+}
+.content-home .study ul .position02 {
+  width: 1.75rem;
+  height: 0.4rem;
+  background: #df007f ;
+  position: absolute;
+  right: 0.3rem;
+  bottom: 0.25rem;
+  color: #fff;
+  border: 1px solid #df007f;
+  border-radius: 0.25rem ;
+  line-height: 0.4rem;
+  text-align: center;
+  font-size: 0.26rem;
+}
+.content-home .study ul .position03 {
+  width: 1.75rem;
+  height: 0.4rem;
+  background: #fff ;
+  position: absolute;
+  right: 0.3rem;
+  bottom: 0.25rem;
+  color: #df007f;
+  border-radius: 0.25rem ;
+  border: 1px solid #df007f;
+  line-height: 0.4rem;
+  text-align: center;
+  font-size: 0.26rem;
+}
